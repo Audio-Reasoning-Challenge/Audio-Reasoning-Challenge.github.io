@@ -29,6 +29,12 @@ github_username:  Audio-Reasoning-Challenge
 
 # Build settings
 theme: minima
+minima:
+  skin: classic
+
+sass:
+  style: compressed
+# theme: jekyll-theme-chirpy
 markdown: kramdown
 plugins:
   - jekyll-feed
@@ -46,8 +52,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - _layerouts/
+  - _layouts/
   - .gitignore
+  - _posts/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
