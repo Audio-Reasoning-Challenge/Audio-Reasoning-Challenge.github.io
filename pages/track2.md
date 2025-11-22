@@ -4,4 +4,16 @@ title: Track 2
 permalink: /track2/
 ---
 
-Hello! I'm Kcajob! I'm here!
+## Agent Track
+
+Participants design an **audio reasoning agent** that may orchestrate multiple *open-source* models and tools (e.g., ASR, separation, beat/onset tracking, captioners, planners) to produce a CoT path and a final answer. This track evaluates *system-level* reasoning: planning, tool selection, and self-checking under the same strict correctness criterion. The emphasis is on transparent trajectories that reveal how intermediate audio analyses contribute to decisions, moving beyond answer-only pipelines.
+
+Agents should implement explicit planning (plan–execute–reflect), structured memory for intermediate artifacts (e.g., transcriptions, stems, captions), and self-verification or cross-checking. We encourage modular designs with well-documented interfaces to facilitate ablations and community reuse.
+
+**Rules and Restrictions:**
+
+1. **Open-source models/tools only.** All components (including music/audio tools) must be publicly available under research-permissive licenses; *no commercial or hosted APIs*.
+2. **Full system + trajectory submission.** *Finalists* must submit runnable code, environment specs, and complete execution logs (tool calls, prompts, intermediate outputs) for audit.
+3. **No human-in-the-loop.** Inference-time human assistance or manual curation is strictly prohibited.
+
+**Baseline:** Qwen3-Omni-Captioner + Qwen3 Text LLM

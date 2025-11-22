@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Audio Reasoning Challenge - Interspeech 2026"
+title: "Audio Reasoning Challenge"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Audio Reasoning Challenge - Interspeech 2026: Coming Soon!
@@ -46,7 +46,7 @@ header_pages:
   - pages/schedule.md
   - pages/track1.md
   - pages/track2.md
-  - pages/committee.md
+  - pages/organizers.md
 
 exclude:
   - Gemfile
