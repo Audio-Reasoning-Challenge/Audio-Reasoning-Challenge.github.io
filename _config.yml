@@ -43,10 +43,11 @@ plugins:
 
 header_pages:
   # - pages/about.md
-  - pages/schedule.md
+  - pages/timeline.md
+  - pages/leaderboard.md
   - pages/track1.md
   - pages/track2.md
-  - pages/organizers.md
+  - pages/faqs.md
 
 exclude:
   - Gemfile
