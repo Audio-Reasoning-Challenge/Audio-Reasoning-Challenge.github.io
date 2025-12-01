@@ -15,4 +15,4 @@ Participants build a **single, end-to-end Audio–Language Model** that consumes
 3. **No external tools/APIs.** No retrieval, web search, calculators, ASR/TTS calls, or plug-in agents at inference.
 4. **Transparency.** The CoT must be emitted by the model (CoT and answer can only be extracted with string matching); handcrafted post-hoc CoT editing is forbidden.
 
-**Baseline:** To be announced.
+**Baseline:** Please refer to our [baselines repository](https://github.com/Audio-Reasoning-Challenge/Audio-Reasoning-Challenge-Baselines).

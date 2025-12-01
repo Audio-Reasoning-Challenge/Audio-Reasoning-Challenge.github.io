@@ -33,6 +33,18 @@ title: ""
   <div class="header">News</div>
   <ul>
     <li>
+      <div class="date">2025-12-01</div>
+      <div class="item">Please join our slack and WeChat group for real-time communication in the Contact section.</div>
+    </li>
+    <li>
+      <div class="date">2025-12-01</div>
+      <div class="item">Registration <a href="https://docs.google.com/forms/d/e/1FAIpQLScVPtlD08E8lzj18D4ndhLMaEGFDEkVwjVB4EKWEJ0if1mN5g/viewform?usp=header" target="_blank">(link)</a> for teams is open now! The deadline for registration is 2026-01-15. Register early to get latest updates.</div>
+    </li>
+    <li>
+      <div class="date">2025-12-01</div>
+      <div class="item">Baselines<a href="https://github.com/Audio-Reasoning-Challenge/Audio-Reasoning-Challenge-Baselines" target="_blank">(link)</a> released!</div>
+    </li>
+    <li>
       <div class="date">2025-11-25</div>
       <div class="item">Website goes live!</div>
     </li>
@@ -141,7 +153,21 @@ Participants can submit a paper describing the submitted model or system to the 
 [Learn more about Timeline](timeline)
 
 ## Contact
-We have a Slack channel for real-time communication. Please join the channel via this [link](https://join.slack.com/t/arc-is26/shared_invite/zt-3j95gc30m-hZoEdpejS4XyZnDP9eWrvA). Please send an [email](mailto:zym.22@sjtu.edu.cn) if you want to add the WeChat group for the challenge. 
+We have a Slack channel and a WeChat group for real-time communication. Please send an [email](mailto:zym.22@sjtu.edu.cn) if you have any private questions. 
+
+<!-- QR codes (Slack / WeChat) -->
+<div style="max-width: 720px; margin: 14px auto 22px; display:flex; gap:20px; justify-content:center; align-items:flex-start; flex-wrap:wrap;">
+  <div style="text-align:center; min-width: 150px;">
+    <img src="img/qrcodes/slack-qrcode.png" alt="Slack Channel QR Code" style="width:160px; height:160px; object-fit:cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <div style="margin-top:8px; color:#666; font-size:13px;">Slack Channel</div>
+    <div style="font-size:12px; margin-top:4px;"><a href="https://join.slack.com/t/arc-is26/shared_invite/zt-3j95gc30m-hZoEdpejS4XyZnDP9eWrvA" target="_blank">Join Slack</a></div>
+  </div>
+  <div style="text-align:center; min-width: 150px;">
+    <img src="img/qrcodes/wechat-qrcode.jpg" alt="WeChat Group QR Code" style="width:160px; height:160px; object-fit:cover; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.06);">
+    <div style="margin-top:8px; color:#666; font-size:13px;">WeChat Group</div>
+    <div style="font-size:12px; margin-top:4px; color:#666;">Scan to join</div>
+  </div>
+</div>
 
 ## Organizers
 
