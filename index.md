@@ -33,6 +33,10 @@ title: ""
   <div class="header">News</div>
   <ul>
     <li>
+      <div class="date">2025-12-03</div>
+      <div class="item">Please refer to the <a href="/faqs/" target="_blank">FAQs</a> page for the frequently asked questions.</div>
+    </li>
+    <li>
       <div class="date">2025-12-01</div>
       <div class="item">Please join our slack and WeChat group for real-time communication in the Contact section.</div>
     </li>
@@ -42,7 +46,7 @@ title: ""
     </li>
     <li>
       <div class="date">2025-12-01</div>
-      <div class="item">Baselines<a href="https://github.com/Audio-Reasoning-Challenge/Audio-Reasoning-Challenge-Baselines" target="_blank">(link)</a> released!</div>
+      <div class="item">Baselines <a href="https://github.com/Audio-Reasoning-Challenge/Audio-Reasoning-Challenge-Baselines" target="_blank">(link)</a> released!</div>
     </li>
     <li>
       <div class="date">2025-11-25</div>
