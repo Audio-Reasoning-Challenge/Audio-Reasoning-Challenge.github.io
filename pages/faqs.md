@@ -10,6 +10,6 @@ A: The release cut-off for the model and data is **November 30, 2025**. If you w
 **Q1: How to submit results to the leaderboard?**  
 A: The leaderboard will be available starting from **January 1st, 2026**. You can train your single model or design your agent before this point. Only teams that register before **January 15, 2026** can submit their results. 
 
-**Q3: Will the paper be accepted by the main conference?** 
+**Q3: Will the paper be accepted by the main conference?**  
 A: Yes, and submissions describing the competition systems or reporting research results based on the competition benchmark are equally welcome. 
 Besides, the top-performing teams will be awarded with honors in the conference.
