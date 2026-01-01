@@ -34,7 +34,11 @@ title: ""
   <ul>
     <li>
       <div class="date">2026-01-01</div>
-      <div class="item">Leaderboard <a href="https://www.codabench.org/competitions/12460/" target="_blank">(Single Model Track)</a> and <a href="https://www.codabench.org/competitions/12459/" target="_blank">(Agent Track)</a> goes live! We will send leaderboard registration instructions to teams who have registered <a href="https://docs.google.com/forms/d/e/1FAIpQLScVPtlD08E8lzj18D4ndhLMaEGFDEkVwjVB4EKWEJ0if1mN5g/viewform?usp=header" target="_blank">(link)</a> here.</div>
+      <div class="item">🎁 To encourage creative approaches in audio reasoning, we are thrilled to announce that the organizing committee will select one team for the <strong>Best Innovative Award</strong> and a <strong>NVIDIA RTX 5070</strong> will be granted.</div>
+    </li>
+    <li>
+      <div class="date">2026-01-01</div>
+      <div class="item">🔥 Leaderboard <a href="https://www.codabench.org/competitions/12460/" target="_blank">(Single Model Track)</a> and <a href="https://www.codabench.org/competitions/12459/" target="_blank">(Agent Track)</a> goes live! We will send leaderboard registration instructions to teams who have registered <a href="https://docs.google.com/forms/d/e/1FAIpQLScVPtlD08E8lzj18D4ndhLMaEGFDEkVwjVB4EKWEJ0if1mN5g/viewform?usp=header" target="_blank">(link)</a> here.</div>
     </li>
       <li>
       <div class="date">2025-12-31</div>
