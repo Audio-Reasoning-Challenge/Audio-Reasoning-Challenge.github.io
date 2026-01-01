@@ -33,6 +33,14 @@ title: ""
   <div class="header">News</div>
   <ul>
     <li>
+      <div class="date">2026-01-01</div>
+      <div class="item">Leaderboard <a href="https://www.codabench.org/competitions/12460/" target="_blank">(Single Model Track)</a> and <a href="https://www.codabench.org/competitions/12459/" target="_blank">(Agent Track)</a> goes live! We will send leaderboard registration instructions to teams who have registered <a href="https://docs.google.com/forms/d/e/1FAIpQLScVPtlD08E8lzj18D4ndhLMaEGFDEkVwjVB4EKWEJ0if1mN5g/viewform?usp=header" target="_blank">(link)</a> here.</div>
+    </li>
+      <li>
+      <div class="date">2025-12-31</div>
+      <div class="item">Please refer to the <a href="/leaderboard/" target="_blank">Leaderboard</a> page for the detailed evaluation methods.</div>
+    </li>
+    <li>
       <div class="date">2025-12-03</div>
       <div class="item">Please refer to the <a href="/faqs/" target="_blank">FAQs</a> page for the frequently asked questions.</div>
     </li>
@@ -105,7 +113,7 @@ Participants design an **audio reasoning agent** that may orchestrate **multiple
 
 [Learn more about Track 2](track2)
 
-## Benchmark and Evaluation Metrics
+## Benchmark and Evaluation Protocol
 
 ### Benchmark
 
@@ -127,7 +135,11 @@ The leaderboard will automatically compute all metrics and rank systems by the p
 
 ### Evaluation Metrics
 
-We adopt a two-stage scoring protocol that jointly assesses **Answer Correctness** and **Reasoning Quality**.
+1. **Answer Correctness**: If the `answer_prediction` is **incorrect**, the score is **0**.
+2. **Reasoning Quality**: If the answer is **correct**, an LLM-as-a-judge evaluates the `thinking_prediction` on a scale of **0.2 to 1.0** (in 0.2 increments).
+3. **Stability Mechanism**: To account for variance, each submission is calculated based on **5 independent evaluation runs**. The final score for each metric will be **the mean of the 3 middle runs**, effectively discarding the highest and lowest results.
+
+<!-- We adopt a two-stage scoring protocol that jointly assesses **Answer Correctness** and **Reasoning Quality**.
 
 - **Metric 1: Reasoning Score (Primary)**  
   1. If the **`answer_prediction`** is **incorrect**, the model's score is immediately set to **0**.
@@ -143,7 +155,7 @@ $$
   1. We measure the proportion of correctly recovered reasoning cues within the generated CoT.
   2. This captures how well a model identifies perceptual and structural evidence in the audio, even if its final answer is incorrect. 
   
-Not that systems are ranked by **Metric 1**. Metric 2 is used for tie-breaking and qualitative leaderboard highlights (e.g., "Best Evidence Alignment"). Both Metric 1 and Metric 2 scores will be calculated **based on 5 evaluation runs**. The final score for each metric will be **the mean of the 3 middle runs**, effectively discarding the highest and lowest results. 
+Not that systems are ranked by **Metric 1**. Metric 2 is used for tie-breaking and qualitative leaderboard highlights (e.g., "Best Evidence Alignment"). Both Metric 1 and Metric 2 scores will be calculated **based on 5 evaluation runs**. The final score for each metric will be **the mean of the 3 middle runs**, effectively discarding the highest and lowest results.  -->
 
 ## Registration and Leaderboard
 Registration for the leaderboard and Google Form submission are required. Refer to the Leaderboard tab for more details. 

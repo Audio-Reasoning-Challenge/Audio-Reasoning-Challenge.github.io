@@ -13,3 +13,6 @@ A: The leaderboard will be available starting from **January 1st, 2026**. You ca
 **Q3: Will the paper be accepted by the main conference?**  
 A: Yes, and submissions describing the competition systems or reporting research results based on the competition benchmark are equally welcome. 
 Besides, the top-performing teams will be awarded with honors in the conference.
+
+**Q4: How is the final rank determined?**
+A: Your highest score from the Final Stage will be used for the final ranking. The leaderboard updates in real-time with about 20 minutes delay. 
