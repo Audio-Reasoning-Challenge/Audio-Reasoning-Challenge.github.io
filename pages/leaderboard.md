@@ -59,7 +59,7 @@ The evaluation is split into two distinct phases. Please note the dataset size a
 
 To ensure system stability and fair judging, please adhere to the following character limits:
 
-* **Thinking Prediction**: Each individual `thinking_prediction` must not exceed **10,000 characters**.
+* **Thinking Prediction**: Each individual `thinking_prediction` must **< 10,000 characters**.
 > *Note: For the Agent Track, your system should be able to manage the final `thinking_prediction`.*
 
 
