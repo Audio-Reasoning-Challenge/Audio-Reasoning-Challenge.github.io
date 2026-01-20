@@ -16,3 +16,6 @@ Besides, the top-performing teams will be awarded with honors in the conference.
 
 **Q4: How is the final rank determined?**
 A: Your highest score from the Final Stage will be used for the final ranking. The leaderboard updates in real-time with about 20 minutes delay. 
+
+**Q5: Can I use local database or knowledge base for the Agent Track?**
+A: No, external knowledge bases are not allowed. This may lead to unfair advantages and potential data leakage. 
