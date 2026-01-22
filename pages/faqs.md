@@ -19,3 +19,6 @@ A: Your highest score from the Final Stage will be used for the final ranking. T
 
 **Q5: Can I use local database or knowledge base for the Agent Track?**
 A: No, external knowledge bases are not allowed. This may lead to unfair advantages and potential data leakage. 
+
+**Q6: Can I use other meta information, such as the category or sub-category in the meta json file for reasoning?**
+A: No, only audio, question, and choices, along with a input prompt are allowed as input.
