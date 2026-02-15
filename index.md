@@ -33,6 +33,10 @@ title: ""
   <div class="header">News</div>
   <ul>
     <li>
+      <div class="date">2026-02-16</div>
+      <div class="item">📊 Final results are now available on the <a href="/leaderboard/" target="_blank">Leaderboard</a> page! Check out the <a href="https://github.com/ddlBoJack/MMAR" target="_blank">benchmark and scripts</a>.</div>
+    </li>
+    <li>
       <div class="date">2026-01-01</div>
       <div class="item">🎁 To encourage creative approaches in audio reasoning, we are thrilled to announce that the organizing committee will select one team for the <strong>Best Innovative Award</strong> and a <strong>NVIDIA RTX 5070</strong> will be granted.</div>
     </li>
