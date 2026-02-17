@@ -34,7 +34,7 @@ title: ""
   <ul>
     <li>
       <div class="date">2026-02-16</div>
-      <div class="item">📊 Final results are now available on the <a href="/leaderboard/" target="_blank">Leaderboard</a> page! Check out the <a href="https://github.com/ddlBoJack/MMAR" target="_blank">benchmark and scripts</a>.</div>
+      <div class="item">📊 Final results are now available on the <a href="/leaderboard/" target="_blank">Leaderboard</a> page! Check out the <a href="https://github.com/ddlBoJack/MMAR" target="_blank">benchmark and scripts</a>, and read the <a href="https://arxiv.org/abs/2602.14224" target="_blank">challenge report</a>.</div>
     </li>
     <li>
       <div class="date">2026-01-01</div>
