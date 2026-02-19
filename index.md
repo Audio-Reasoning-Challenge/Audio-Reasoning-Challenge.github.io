@@ -172,7 +172,7 @@ Registration for the leaderboard and Google Form submission are required. Refer 
 
 ## Paper submission
 
-Participants can submit a paper describing the submitted model or system to the Interspeech 2026. Submissions describing the competition systems or reporting research results based on the competition benchmark are equally welcome. The submitted papers will go through the same review process as the regular papers and will be indexed and included in the ISCA archive. 
+Participants can submit a paper describing the submitted model or system to the Interspeech 2026. Paper submission is independent of the leaderboard ranking. Submissions describing the competition systems or reporting research results for audio reasoningng equally welcome. The submitted papers will go through the same review process as the regular papers and will be indexed and included in the ISCA archive. 
 
 [Learn more about Timeline](timeline)
 
