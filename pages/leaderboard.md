@@ -14,7 +14,7 @@ permalink: /leaderboard/
 | --- | --- | --- | --- | --- |
 | 🏅 | xianghe | Tencent AI Lab, The Hong Kong University of Science and Technology (Guangzhou) | 65.29 | 74.0 |
 | 🥈 | tju-cca | Tianjin University Tianjin Key Laboratory of Cognitive Computing and Application | 62.55 | 71.0 |
-| 🥉 | TeleAI-NPU | China Telecom AI Institute, Northwestern Polytechnical University ASLP Group | 62.22 | 71.7 |
+| 🥉 | TeleAI-NPU | The Institute of Artificial Intelligence, China Telecom (TeleAI); Audio, Speech and Language Processing Lab, Northwestern Polytechnical University (NPU-ASLP) | 62.22 | 71.7 |
 | 4th | sujitnoronha | Independent Researcher | 60.61 | 73.4 |
 | 5th | (◍•ᴗ•◍) | Bilibili Inc. | 58.86 | 71.2 |
 | 6th | jtjtjt | China Mobile Jiutian Research | 58.53 | 69.3 |
